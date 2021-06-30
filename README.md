@@ -18,7 +18,7 @@
 
 >자주가는 사이트
 >
->[한국고전 번역원][id] [id]: URL "Optional Title here" <https://www.itkc.or.kr/main.do/>
+>[한국고전 번역원][id] [id]: URL "Optional Title here" <https://www.itkc.or.kr/main.do>
 >
 >[고전번역 자료실][id] [id]: URL "Optional Title here" <https://db.itkc.or.kr/>
 >
